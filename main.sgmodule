@@ -1,3 +1,5 @@
+#!name=自用配置
+
 [URL Rewrite]
 # 彩云天气去广告
 ^https?:\/\/ad\.(caiyunapp|cyapi)\.(cn|com) - reject
