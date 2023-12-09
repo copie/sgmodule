@@ -1,9 +1,7 @@
 #!name=自用配置
 
 [General]
-encrypted-dns-follow-outbound-mode=true
-dns-server = 223.5.5.5, 223.6.6.6
-encrypted-dns-server = https://223.6.6.6/dns-query
+dns-server = system, 223.5.5.5, 223.6.6.6
 
 [URL Rewrite]
 # 彩云天气去广告
